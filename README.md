@@ -29,7 +29,7 @@ The code is designed to be production-ready, with clear naming, structured logic
     - If cloning, run:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Anandhu09/tree-property-analyser.git
     ```
 
 2.  **Install Dependencies**: Navigate to the project directory in your terminal and run:
