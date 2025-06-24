@@ -57,13 +57,13 @@ Average price on streets with tall trees: €587800.39
 Average price on streets with short trees: €487992.39
 ```
 
-  - The program requires no user input and runs autonomously.
-  - The codebase is production-ready, featuring:
-    - Clear, modular design with minimal dependencies.
-    - Robust error handling for library reuse.
-    - Console-only logging using winston for debugging.
-    - Comprehensive unit tests with Jest.
-    - Code formatting with Prettier.
+- The program requires no user input and runs autonomously.
+- The codebase is production-ready, featuring:
+  - Clear, modular design with minimal dependencies.
+  - Robust error handling for library reuse.
+  - Console-only logging using winston for debugging.
+  - Comprehensive unit tests with Jest.
+  - Code formatting with Prettier.
 
 ## Development Mode
 
@@ -154,9 +154,10 @@ npm run format
 
 **Anandhu Vikraman**  
 _Software developer & Cybersecurity Specialist_
+
 - Email: anandhu.vikraman007@gmail.com
 - GitHub: [github.com/anandhu-vikraman](https://github.com/Anandhu09)
 - LinkedIn: [linkedin.com/in/anandhu-vikraman](https://www.linkedin.com/in/anandhu-v-96211a23b/)
-- Mobile/Whatsapp : +353 892492348  
+- Mobile/Whatsapp : +353 892492348
 
-For inquiries, please contact the author via email or GitHub.
+For inquiries, please use contact details of the author just above.
