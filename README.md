@@ -53,8 +53,8 @@ npm start
 ## Expected Output
 
 ```
-Average price on streets with tall trees: €587800
-Average price on streets with short trees: €487992
+Average price on streets with tall trees: €587800.39
+Average price on streets with short trees: €487992.39
 ```
 
   - The program requires no user input and runs autonomously.
